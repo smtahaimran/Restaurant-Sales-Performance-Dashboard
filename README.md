@@ -19,6 +19,9 @@ There had two years of raw POS sales data across three branches but no consolida
 - **Time range:** January 2023 – December 2024
 - **Scope:** 3 branches, 45 menu items across 9 categories, 3 order types (Dine-in / Takeaway / Delivery), 3 payment methods
 
+  <img width="935" height="320" alt="Screenshot 2026-08-19 221002" src="https://github.com/user-attachments/assets/b041f1a2-8ffd-4389-8a14-9a4eb4c19265" />
+
+
 
 ---
 
