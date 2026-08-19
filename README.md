@@ -28,13 +28,13 @@ There had two years of raw POS sales data across three branches but no consolida
 
 
 **Visuals:**
-| Monthly Revenue Trend (2023 vs 2024) | Line chart | Is the business growing, and what does seasonality look like? |
-| Revenue by Branch | Donut Chart | Which branch drives the most revenue? |
-| Revenue by Category | Treemap | Which menu categories perform best? |
-| Revenue by Menu Item | Clustered Bar Chart | Which dishes to promote — and which underperform? |
-| Order Volume by Day & Hour | Matrix | When are we busiest? (staffing decisions) |
-| Order Type Share by Year | 100% stacked bar | Is our channel mix (dine-in/takeaway/delivery) shifting? |
-| Orders by Discount Level | Clustered Column Chart | Is discounting driving volume, or just eating margin? |
+- | Monthly Revenue Trend (2023 vs 2024) | Line chart | Is the business growing, and what does seasonality look like? |
+- | Revenue by Branch | Donut Chart | Which branch drives the most revenue? |
+- | Revenue by Category | Treemap | Which menu categories perform best? |
+- | Revenue by Menu Item | Clustered Bar Chart | Which dishes to promote — and which underperform? |
+- | Order Volume by Day & Hour | Matrix | When are we busiest? (staffing decisions) |
+- | Order Type Share by Year | 100% stacked bar | Is our channel mix (dine-in/takeaway/delivery) shifting? |
+- | Orders by Discount Level | Clustered Column Chart | Is discounting driving volume, or just eating margin? |
 
 ---
 
